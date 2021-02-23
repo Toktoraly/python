@@ -1,2 +1,0 @@
-def study():
-    return "study"
